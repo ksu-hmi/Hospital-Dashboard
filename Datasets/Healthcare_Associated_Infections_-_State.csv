@@ -1,0 +1,1009 @@
+﻿State,Measure Name,Measure ID,Score,Footnote,Measure Start Date,Measure End Date
+AK,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.862,,04/01/2017,03/31/2018
+AS,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.747,,04/01/2017,03/31/2018
+MA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.796,,04/01/2017,03/31/2018
+MD,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.838,,04/01/2017,03/31/2018
+NE,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.768,,04/01/2017,03/31/2018
+OH,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.730,,04/01/2017,03/31/2018
+PA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.806,,04/01/2017,03/31/2018
+PR,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,1.444,,04/01/2017,03/31/2018
+SD,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.572,,04/01/2017,03/31/2018
+AK,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.307,,04/01/2017,03/31/2018
+AS,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.853,,04/01/2017,03/31/2018
+MA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.882,,04/01/2017,03/31/2018
+MD,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.944,,04/01/2017,03/31/2018
+NE,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.944,,04/01/2017,03/31/2018
+OH,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.795,,04/01/2017,03/31/2018
+PA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.864,,04/01/2017,03/31/2018
+PR,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.865,,04/01/2017,03/31/2018
+SD,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.852,,04/01/2017,03/31/2018
+AK,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.541,,04/01/2017,03/31/2018
+AS,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.651,,04/01/2017,03/31/2018
+MA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.716,,04/01/2017,03/31/2018
+MD,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.741,,04/01/2017,03/31/2018
+NE,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.618,,04/01/2017,03/31/2018
+OH,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.669,,04/01/2017,03/31/2018
+PA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.751,,04/01/2017,03/31/2018
+PR,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,1.098,,04/01/2017,03/31/2018
+SD,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.368,,04/01/2017,03/31/2018
+AK,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.565,,04/01/2017,03/31/2018
+AS,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.761,,04/01/2017,03/31/2018
+MA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.073,,04/01/2017,03/31/2018
+MD,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.834,,04/01/2017,03/31/2018
+NE,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.954,,04/01/2017,03/31/2018
+OH,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.762,,04/01/2017,03/31/2018
+PA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.835,,04/01/2017,03/31/2018
+PR,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.849,,04/01/2017,03/31/2018
+SD,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.150,,04/01/2017,03/31/2018
+AK,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,2.205,,04/01/2017,03/31/2018
+AS,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.855,,04/01/2017,03/31/2018
+MA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.162,,04/01/2017,03/31/2018
+MD,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.936,,04/01/2017,03/31/2018
+NE,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.154,,04/01/2017,03/31/2018
+OH,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.817,,04/01/2017,03/31/2018
+PA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.889,,04/01/2017,03/31/2018
+PR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.068,,04/01/2017,03/31/2018
+SD,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.508,,04/01/2017,03/31/2018
+AK,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,1.075,,04/01/2017,03/31/2018
+AS,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.676,,04/01/2017,03/31/2018
+MA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.988,,04/01/2017,03/31/2018
+MD,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.740,,04/01/2017,03/31/2018
+NE,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.781,,04/01/2017,03/31/2018
+OH,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.709,,04/01/2017,03/31/2018
+PA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.783,,04/01/2017,03/31/2018
+PR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.666,,04/01/2017,03/31/2018
+SD,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.860,,04/01/2017,03/31/2018
+AK,SSI - Colon Surgery,HAI_3_SIR,1.141,,04/01/2017,03/31/2018
+AS,SSI - Colon Surgery,HAI_3_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,SSI - Colon Surgery,HAI_3_SIR,1.036,,04/01/2017,03/31/2018
+MA,SSI - Colon Surgery,HAI_3_SIR,0.847,,04/01/2017,03/31/2018
+MD,SSI - Colon Surgery,HAI_3_SIR,1.026,,04/01/2017,03/31/2018
+NE,SSI - Colon Surgery,HAI_3_SIR,1.156,,04/01/2017,03/31/2018
+OH,SSI - Colon Surgery,HAI_3_SIR,0.776,,04/01/2017,03/31/2018
+PA,SSI - Colon Surgery,HAI_3_SIR,0.801,,04/01/2017,03/31/2018
+PR,SSI - Colon Surgery,HAI_3_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+SD,SSI - Colon Surgery,HAI_3_SIR,1.352,,04/01/2017,03/31/2018
+AK,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.731,,04/01/2017,03/31/2018
+AS,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.205,,04/01/2017,03/31/2018
+MA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.985,,04/01/2017,03/31/2018
+MD,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.196,,04/01/2017,03/31/2018
+NE,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.475,,04/01/2017,03/31/2018
+OH,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.865,,04/01/2017,03/31/2018
+PA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.890,,04/01/2017,03/31/2018
+PR,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+SD,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.852,,04/01/2017,03/31/2018
+AK,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.716,,04/01/2017,03/31/2018
+AS,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.885,,04/01/2017,03/31/2018
+MA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.724,,04/01/2017,03/31/2018
+MD,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.876,,04/01/2017,03/31/2018
+NE,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.892,,04/01/2017,03/31/2018
+OH,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.693,,04/01/2017,03/31/2018
+PA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.719,,04/01/2017,03/31/2018
+PR,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+SD,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.961,,04/01/2017,03/31/2018
+AK,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.225,,04/01/2017,03/31/2018
+AS,SSI - Abdominal Hysterectomy,HAI_4_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.942,,04/01/2017,03/31/2018
+MA,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.152,,04/01/2017,03/31/2018
+MD,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.389,,04/01/2017,03/31/2018
+NE,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.492,,04/01/2017,03/31/2018
+OH,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.779,,04/01/2017,03/31/2018
+PA,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.920,,04/01/2017,03/31/2018
+PR,SSI - Abdominal Hysterectomy,HAI_4_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+SD,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.927,,04/01/2017,03/31/2018
+AK,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.548,,04/01/2017,03/31/2018
+AS,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.242,,04/01/2017,03/31/2018
+MA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.548,,04/01/2017,03/31/2018
+MD,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.791,,04/01/2017,03/31/2018
+NE,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.934,,04/01/2017,03/31/2018
+OH,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.961,,04/01/2017,03/31/2018
+PA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.135,,04/01/2017,03/31/2018
+PR,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+SD,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.761,,04/01/2017,03/31/2018
+AK,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.497,,04/01/2017,03/31/2018
+AS,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.700,,04/01/2017,03/31/2018
+MA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.838,,04/01/2017,03/31/2018
+MD,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,1.059,,04/01/2017,03/31/2018
+NE,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.228,,04/01/2017,03/31/2018
+OH,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.623,,04/01/2017,03/31/2018
+PA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.738,,04/01/2017,03/31/2018
+PR,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+SD,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.431,,04/01/2017,03/31/2018
+AK,MRSA Bacteremia,HAI_5_SIR,0.617,,04/01/2017,03/31/2018
+AS,MRSA Bacteremia,HAI_5_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,MRSA Bacteremia,HAI_5_SIR,0.950,,04/01/2017,03/31/2018
+MA,MRSA Bacteremia,HAI_5_SIR,0.716,,04/01/2017,03/31/2018
+MD,MRSA Bacteremia,HAI_5_SIR,0.998,,04/01/2017,03/31/2018
+NE,MRSA Bacteremia,HAI_5_SIR,0.745,,04/01/2017,03/31/2018
+OH,MRSA Bacteremia,HAI_5_SIR,0.924,,04/01/2017,03/31/2018
+PA,MRSA Bacteremia,HAI_5_SIR,0.785,,04/01/2017,03/31/2018
+PR,MRSA Bacteremia,HAI_5_SIR,0.463,,04/01/2017,03/31/2018
+SD,MRSA Bacteremia,HAI_5_SIR,0.519,,04/01/2017,03/31/2018
+AK,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.133,,04/01/2017,03/31/2018
+AS,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.096,,04/01/2017,03/31/2018
+MA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.836,,04/01/2017,03/31/2018
+MD,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.151,,04/01/2017,03/31/2018
+NE,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.008,,04/01/2017,03/31/2018
+OH,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.022,,04/01/2017,03/31/2018
+PA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.870,,04/01/2017,03/31/2018
+PR,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.261,,04/01/2017,03/31/2018
+SD,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.866,,04/01/2017,03/31/2018
+AK,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.301,,04/01/2017,03/31/2018
+AS,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.819,,04/01/2017,03/31/2018
+MA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.610,,04/01/2017,03/31/2018
+MD,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.860,,04/01/2017,03/31/2018
+NE,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.537,,04/01/2017,03/31/2018
+OH,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.833,,04/01/2017,03/31/2018
+PA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.707,,04/01/2017,03/31/2018
+PR,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.118,,04/01/2017,03/31/2018
+SD,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.289,,04/01/2017,03/31/2018
+AK,Clostridium Difficile (C.Diff),HAI_6_SIR,0.847,,04/01/2017,03/31/2018
+AS,Clostridium Difficile (C.Diff),HAI_6_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Clostridium Difficile (C.Diff),HAI_6_SIR,0.737,,04/01/2017,03/31/2018
+MA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.856,,04/01/2017,03/31/2018
+MD,Clostridium Difficile (C.Diff),HAI_6_SIR,0.919,,04/01/2017,03/31/2018
+NE,Clostridium Difficile (C.Diff),HAI_6_SIR,0.864,,04/01/2017,03/31/2018
+OH,Clostridium Difficile (C.Diff),HAI_6_SIR,0.818,,04/01/2017,03/31/2018
+PA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.823,,04/01/2017,03/31/2018
+PR,Clostridium Difficile (C.Diff),HAI_6_SIR,0.380,,04/01/2017,03/31/2018
+SD,Clostridium Difficile (C.Diff),HAI_6_SIR,0.690,,04/01/2017,03/31/2018
+AK,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.003,,04/01/2017,03/31/2018
+AS,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.778,,04/01/2017,03/31/2018
+MA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.894,,04/01/2017,03/31/2018
+MD,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.963,,04/01/2017,03/31/2018
+IA,SSI - Colon Surgery,HAI_3_SIR,0.954,,04/01/2017,03/31/2018
+NE,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.946,,04/01/2017,03/31/2018
+OH,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.845,,04/01/2017,03/31/2018
+PA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.848,,04/01/2017,03/31/2018
+PR,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.539,,04/01/2017,03/31/2018
+SD,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.787,,04/01/2017,03/31/2018
+AK,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.710,,04/01/2017,03/31/2018
+AS,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KY,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.697,,04/01/2017,03/31/2018
+MA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.820,,04/01/2017,03/31/2018
+MD,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.877,,04/01/2017,03/31/2018
+NE,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.788,,04/01/2017,03/31/2018
+OH,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.791,,04/01/2017,03/31/2018
+PA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.798,,04/01/2017,03/31/2018
+PR,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.259,,04/01/2017,03/31/2018
+SD,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.602,,04/01/2017,03/31/2018
+AR,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,1.098,,04/01/2017,03/31/2018
+HI,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.311,,04/01/2017,03/31/2018
+MN,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.763,,04/01/2017,03/31/2018
+NJ,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.695,,04/01/2017,03/31/2018
+OK,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.765,,04/01/2017,03/31/2018
+OR,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.642,,04/01/2017,03/31/2018
+WA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.630,,04/01/2017,03/31/2018
+WI,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.728,,04/01/2017,03/31/2018
+AR,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.251,,04/01/2017,03/31/2018
+HI,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.459,,04/01/2017,03/31/2018
+MN,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.874,,04/01/2017,03/31/2018
+NJ,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.777,,04/01/2017,03/31/2018
+OK,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.867,,04/01/2017,03/31/2018
+OR,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.781,,04/01/2017,03/31/2018
+WA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.717,,04/01/2017,03/31/2018
+WI,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.832,,04/01/2017,03/31/2018
+AR,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.959,,04/01/2017,03/31/2018
+HI,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.202,,04/01/2017,03/31/2018
+MN,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.663,,04/01/2017,03/31/2018
+NJ,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.619,,04/01/2017,03/31/2018
+OK,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.672,,04/01/2017,03/31/2018
+OR,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.523,,04/01/2017,03/31/2018
+WA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.551,,04/01/2017,03/31/2018
+WI,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.634,,04/01/2017,03/31/2018
+AR,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.150,,04/01/2017,03/31/2018
+HI,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.884,,04/01/2017,03/31/2018
+MN,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.784,,04/01/2017,03/31/2018
+NJ,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.910,,04/01/2017,03/31/2018
+OK,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.715,,04/01/2017,03/31/2018
+OR,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.940,,04/01/2017,03/31/2018
+WA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.077,,04/01/2017,03/31/2018
+WI,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.932,,04/01/2017,03/31/2018
+AR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.294,,04/01/2017,03/31/2018
+HI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.117,,04/01/2017,03/31/2018
+MN,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.888,,04/01/2017,03/31/2018
+NJ,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.998,,04/01/2017,03/31/2018
+OK,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.810,,04/01/2017,03/31/2018
+OR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.086,,04/01/2017,03/31/2018
+WA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.186,,04/01/2017,03/31/2018
+WI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.040,,04/01/2017,03/31/2018
+AR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,1.018,,04/01/2017,03/31/2018
+HI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.689,,04/01/2017,03/31/2018
+MN,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.690,,04/01/2017,03/31/2018
+NJ,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.828,,04/01/2017,03/31/2018
+OK,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.628,,04/01/2017,03/31/2018
+OR,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.809,,04/01/2017,03/31/2018
+WA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.976,,04/01/2017,03/31/2018
+WI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.833,,04/01/2017,03/31/2018
+AR,SSI - Colon Surgery,HAI_3_SIR,1.049,,04/01/2017,03/31/2018
+HI,SSI - Colon Surgery,HAI_3_SIR,0.791,,04/01/2017,03/31/2018
+MN,SSI - Colon Surgery,HAI_3_SIR,1.135,,04/01/2017,03/31/2018
+NJ,SSI - Colon Surgery,HAI_3_SIR,0.752,,04/01/2017,03/31/2018
+OK,SSI - Colon Surgery,HAI_3_SIR,0.864,,04/01/2017,03/31/2018
+OR,SSI - Colon Surgery,HAI_3_SIR,0.761,,04/01/2017,03/31/2018
+WA,SSI - Colon Surgery,HAI_3_SIR,0.857,,04/01/2017,03/31/2018
+WI,SSI - Colon Surgery,HAI_3_SIR,0.834,,04/01/2017,03/31/2018
+AR,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.282,,04/01/2017,03/31/2018
+HI,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.169,,04/01/2017,03/31/2018
+MN,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.315,,04/01/2017,03/31/2018
+NJ,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.876,,04/01/2017,03/31/2018
+OK,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.044,,04/01/2017,03/31/2018
+OR,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.940,,04/01/2017,03/31/2018
+WA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.007,,04/01/2017,03/31/2018
+WI,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.986,,04/01/2017,03/31/2018
+AR,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.849,,04/01/2017,03/31/2018
+HI,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.514,,04/01/2017,03/31/2018
+MN,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.975,,04/01/2017,03/31/2018
+NJ,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.641,,04/01/2017,03/31/2018
+OK,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.708,,04/01/2017,03/31/2018
+OR,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.610,,04/01/2017,03/31/2018
+WA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.724,,04/01/2017,03/31/2018
+WI,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.700,,04/01/2017,03/31/2018
+AR,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.700,,04/01/2017,03/31/2018
+HI,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.228,,04/01/2017,03/31/2018
+MN,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.589,,04/01/2017,03/31/2018
+NJ,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.829,,04/01/2017,03/31/2018
+OK,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.864,,04/01/2017,03/31/2018
+OR,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.052,,04/01/2017,03/31/2018
+WA,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.764,,04/01/2017,03/31/2018
+WI,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.036,,04/01/2017,03/31/2018
+AR,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.074,,04/01/2017,03/31/2018
+HI,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.124,,04/01/2017,03/31/2018
+MN,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.084,,04/01/2017,03/31/2018
+NJ,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.110,,04/01/2017,03/31/2018
+OK,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.205,,04/01/2017,03/31/2018
+OR,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.541,,04/01/2017,03/31/2018
+WA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.060,,04/01/2017,03/31/2018
+WI,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.378,,04/01/2017,03/31/2018
+AR,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.434,,04/01/2017,03/31/2018
+HI,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.011,,04/01/2017,03/31/2018
+MN,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,1.189,,04/01/2017,03/31/2018
+NJ,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.605,,04/01/2017,03/31/2018
+OK,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.601,,04/01/2017,03/31/2018
+OR,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.689,,04/01/2017,03/31/2018
+WA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.534,,04/01/2017,03/31/2018
+WI,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.762,,04/01/2017,03/31/2018
+AR,MRSA Bacteremia,HAI_5_SIR,1.187,,04/01/2017,03/31/2018
+HI,MRSA Bacteremia,HAI_5_SIR,0.551,,04/01/2017,03/31/2018
+MN,MRSA Bacteremia,HAI_5_SIR,0.522,,04/01/2017,03/31/2018
+NJ,MRSA Bacteremia,HAI_5_SIR,0.895,,04/01/2017,03/31/2018
+OK,MRSA Bacteremia,HAI_5_SIR,0.936,,04/01/2017,03/31/2018
+OR,MRSA Bacteremia,HAI_5_SIR,0.658,,04/01/2017,03/31/2018
+WA,MRSA Bacteremia,HAI_5_SIR,0.561,,04/01/2017,03/31/2018
+WI,MRSA Bacteremia,HAI_5_SIR,0.534,,04/01/2017,03/31/2018
+AR,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.438,,04/01/2017,03/31/2018
+HI,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.865,,04/01/2017,03/31/2018
+MN,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.665,,04/01/2017,03/31/2018
+NJ,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.013,,04/01/2017,03/31/2018
+OK,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.113,,04/01/2017,03/31/2018
+OR,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.840,,04/01/2017,03/31/2018
+WA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.685,,04/01/2017,03/31/2018
+WI,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.682,,04/01/2017,03/31/2018
+AR,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.971,,04/01/2017,03/31/2018
+HI,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.332,,04/01/2017,03/31/2018
+MN,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.404,,04/01/2017,03/31/2018
+NJ,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.787,,04/01/2017,03/31/2018
+OK,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.781,,04/01/2017,03/31/2018
+OR,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.508,,04/01/2017,03/31/2018
+WA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.455,,04/01/2017,03/31/2018
+WI,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.412,,04/01/2017,03/31/2018
+AR,Clostridium Difficile (C.Diff),HAI_6_SIR,0.745,,04/01/2017,03/31/2018
+HI,Clostridium Difficile (C.Diff),HAI_6_SIR,0.615,,04/01/2017,03/31/2018
+MN,Clostridium Difficile (C.Diff),HAI_6_SIR,0.838,,04/01/2017,03/31/2018
+NJ,Clostridium Difficile (C.Diff),HAI_6_SIR,0.856,,04/01/2017,03/31/2018
+OK,Clostridium Difficile (C.Diff),HAI_6_SIR,0.686,,04/01/2017,03/31/2018
+OR,Clostridium Difficile (C.Diff),HAI_6_SIR,0.774,,04/01/2017,03/31/2018
+WA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.939,,04/01/2017,03/31/2018
+WI,Clostridium Difficile (C.Diff),HAI_6_SIR,0.835,,04/01/2017,03/31/2018
+AR,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.801,,04/01/2017,03/31/2018
+HI,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.706,,04/01/2017,03/31/2018
+MN,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.885,,04/01/2017,03/31/2018
+NJ,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.890,,04/01/2017,03/31/2018
+OK,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.734,,04/01/2017,03/31/2018
+OR,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.833,,04/01/2017,03/31/2018
+WA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.986,,04/01/2017,03/31/2018
+WI,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.882,,04/01/2017,03/31/2018
+AR,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.691,,04/01/2017,03/31/2018
+HI,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.534,,04/01/2017,03/31/2018
+MN,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.794,,04/01/2017,03/31/2018
+NJ,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.823,,04/01/2017,03/31/2018
+OK,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.641,,04/01/2017,03/31/2018
+OR,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.719,,04/01/2017,03/31/2018
+WA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.893,,04/01/2017,03/31/2018
+WI,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.790,,04/01/2017,03/31/2018
+AL,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.777,,04/01/2017,03/31/2018
+FL,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.774,,04/01/2017,03/31/2018
+GA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.950,,04/01/2017,03/31/2018
+MO,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.811,,04/01/2017,03/31/2018
+MT,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.546,,04/01/2017,03/31/2018
+TX,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.843,,04/01/2017,03/31/2018
+AL,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.878,,04/01/2017,03/31/2018
+FL,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.822,,04/01/2017,03/31/2018
+GA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.031,,04/01/2017,03/31/2018
+MO,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.900,,04/01/2017,03/31/2018
+MT,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.895,,04/01/2017,03/31/2018
+TX,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.892,,04/01/2017,03/31/2018
+AL,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.684,,04/01/2017,03/31/2018
+FL,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.728,,04/01/2017,03/31/2018
+GA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.875,,04/01/2017,03/31/2018
+MO,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.728,,04/01/2017,03/31/2018
+MT,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.311,,04/01/2017,03/31/2018
+TX,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.796,,04/01/2017,03/31/2018
+AL,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.735,,04/01/2017,03/31/2018
+FL,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.737,,04/01/2017,03/31/2018
+GA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.905,,04/01/2017,03/31/2018
+MO,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.924,,04/01/2017,03/31/2018
+MT,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.975,,04/01/2017,03/31/2018
+TX,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.809,,04/01/2017,03/31/2018
+AL,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.814,,04/01/2017,03/31/2018
+FL,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.781,,04/01/2017,03/31/2018
+GA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.978,,04/01/2017,03/31/2018
+MO,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.010,,04/01/2017,03/31/2018
+MT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.341,,04/01/2017,03/31/2018
+TX,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.854,,04/01/2017,03/31/2018
+AL,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.663,,04/01/2017,03/31/2018
+FL,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.696,,04/01/2017,03/31/2018
+GA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.837,,04/01/2017,03/31/2018
+MO,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.843,,04/01/2017,03/31/2018
+MT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.689,,04/01/2017,03/31/2018
+TX,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.766,,04/01/2017,03/31/2018
+AL,SSI - Colon Surgery,HAI_3_SIR,0.616,,04/01/2017,03/31/2018
+FL,SSI - Colon Surgery,HAI_3_SIR,0.754,,04/01/2017,03/31/2018
+GA,SSI - Colon Surgery,HAI_3_SIR,0.807,,04/01/2017,03/31/2018
+MO,SSI - Colon Surgery,HAI_3_SIR,0.887,,04/01/2017,03/31/2018
+MT,SSI - Colon Surgery,HAI_3_SIR,1.515,,04/01/2017,03/31/2018
+TX,SSI - Colon Surgery,HAI_3_SIR,0.878,,04/01/2017,03/31/2018
+AL,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.743,,04/01/2017,03/31/2018
+FL,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.822,,04/01/2017,03/31/2018
+GA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.915,,04/01/2017,03/31/2018
+MO,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.025,,04/01/2017,03/31/2018
+MT,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,2.084,,04/01/2017,03/31/2018
+TX,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.952,,04/01/2017,03/31/2018
+AL,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.507,,04/01/2017,03/31/2018
+FL,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.690,,04/01/2017,03/31/2018
+GA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.709,,04/01/2017,03/31/2018
+MO,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.764,,04/01/2017,03/31/2018
+MT,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,1.072,,04/01/2017,03/31/2018
+TX,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.808,,04/01/2017,03/31/2018
+AL,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.696,,04/01/2017,03/31/2018
+FL,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.765,,04/01/2017,03/31/2018
+GA,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.870,,04/01/2017,03/31/2018
+MO,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.673,,04/01/2017,03/31/2018
+MT,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.918,,04/01/2017,03/31/2018
+TX,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.797,,04/01/2017,03/31/2018
+AL,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.932,,04/01/2017,03/31/2018
+FL,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.913,,04/01/2017,03/31/2018
+GA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.067,,04/01/2017,03/31/2018
+MO,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.929,,04/01/2017,03/31/2018
+MT,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.909,,04/01/2017,03/31/2018
+TX,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.918,,04/01/2017,03/31/2018
+AL,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.508,,04/01/2017,03/31/2018
+FL,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.636,,04/01/2017,03/31/2018
+GA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.702,,04/01/2017,03/31/2018
+MO,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.473,,04/01/2017,03/31/2018
+MT,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.372,,04/01/2017,03/31/2018
+TX,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.688,,04/01/2017,03/31/2018
+AL,MRSA Bacteremia,HAI_5_SIR,1.007,,04/01/2017,03/31/2018
+FL,MRSA Bacteremia,HAI_5_SIR,1.050,,04/01/2017,03/31/2018
+GA,MRSA Bacteremia,HAI_5_SIR,1.010,,04/01/2017,03/31/2018
+MO,MRSA Bacteremia,HAI_5_SIR,0.752,,04/01/2017,03/31/2018
+MT,MRSA Bacteremia,HAI_5_SIR,0.571,,04/01/2017,03/31/2018
+TX,MRSA Bacteremia,HAI_5_SIR,0.824,,04/01/2017,03/31/2018
+AL,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.157,,04/01/2017,03/31/2018
+IL,SSI - Colon Surgery,HAI_3_SIR,0.942,,04/01/2017,03/31/2018
+FL,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.127,,04/01/2017,03/31/2018
+GA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.130,,04/01/2017,03/31/2018
+MO,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.873,,04/01/2017,03/31/2018
+MT,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.047,,04/01/2017,03/31/2018
+TX,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.893,,04/01/2017,03/31/2018
+AL,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.873,,04/01/2017,03/31/2018
+FL,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.977,,04/01/2017,03/31/2018
+GA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.899,,04/01/2017,03/31/2018
+MO,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.644,,04/01/2017,03/31/2018
+MT,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.278,,04/01/2017,03/31/2018
+TX,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.760,,04/01/2017,03/31/2018
+AL,Clostridium Difficile (C.Diff),HAI_6_SIR,0.625,,04/01/2017,03/31/2018
+FL,Clostridium Difficile (C.Diff),HAI_6_SIR,0.648,,04/01/2017,03/31/2018
+GA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.697,,04/01/2017,03/31/2018
+MO,Clostridium Difficile (C.Diff),HAI_6_SIR,0.743,,04/01/2017,03/31/2018
+MT,Clostridium Difficile (C.Diff),HAI_6_SIR,0.781,,04/01/2017,03/31/2018
+TX,Clostridium Difficile (C.Diff),HAI_6_SIR,0.740,,04/01/2017,03/31/2018
+AL,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.661,,04/01/2017,03/31/2018
+FL,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.665,,04/01/2017,03/31/2018
+GA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.726,,04/01/2017,03/31/2018
+MO,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.779,,04/01/2017,03/31/2018
+MT,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.915,,04/01/2017,03/31/2018
+TX,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.760,,04/01/2017,03/31/2018
+AL,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.590,,04/01/2017,03/31/2018
+FL,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.630,,04/01/2017,03/31/2018
+GA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.668,,04/01/2017,03/31/2018
+MO,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.709,,04/01/2017,03/31/2018
+MT,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.662,,04/01/2017,03/31/2018
+TX,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.721,,04/01/2017,03/31/2018
+CO,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.664,,04/01/2017,03/31/2018
+CT,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,1.021,,04/01/2017,03/31/2018
+DC,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.873,,04/01/2017,03/31/2018
+DE,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.889,,04/01/2017,03/31/2018
+GU,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.613,,04/01/2017,03/31/2018
+IL,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.629,,04/01/2017,03/31/2018
+IN,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.847,,04/01/2017,03/31/2018
+KS,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.852,,04/01/2017,03/31/2018
+LA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.804,,04/01/2017,03/31/2018
+ME,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.897,,04/01/2017,03/31/2018
+NC,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.976,,04/01/2017,03/31/2018
+NM,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.726,,04/01/2017,03/31/2018
+VA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.809,,04/01/2017,03/31/2018
+VI,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.781,,04/01/2017,03/31/2018
+CT,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.173,,04/01/2017,03/31/2018
+DC,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.051,,04/01/2017,03/31/2018
+DE,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.183,,04/01/2017,03/31/2018
+GU,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.752,,04/01/2017,03/31/2018
+IL,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.691,,04/01/2017,03/31/2018
+IN,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.942,,04/01/2017,03/31/2018
+KS,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.014,,04/01/2017,03/31/2018
+LA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.907,,04/01/2017,03/31/2018
+ME,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.176,,04/01/2017,03/31/2018
+NC,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.059,,04/01/2017,03/31/2018
+NM,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.942,,04/01/2017,03/31/2018
+VA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.902,,04/01/2017,03/31/2018
+VI,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.562,,04/01/2017,03/31/2018
+CT,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.885,,04/01/2017,03/31/2018
+DC,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.719,,04/01/2017,03/31/2018
+DE,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.654,,04/01/2017,03/31/2018
+GU,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IN,SSI - Colon Surgery,HAI_3_SIR,0.936,,04/01/2017,03/31/2018
+IA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.495,,04/01/2017,03/31/2018
+IL,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.571,,04/01/2017,03/31/2018
+IN,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.760,,04/01/2017,03/31/2018
+KS,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.712,,04/01/2017,03/31/2018
+LA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.710,,04/01/2017,03/31/2018
+ME,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.671,,04/01/2017,03/31/2018
+NC,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.898,,04/01/2017,03/31/2018
+NM,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.549,,04/01/2017,03/31/2018
+VA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.723,,04/01/2017,03/31/2018
+VI,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.868,,04/01/2017,03/31/2018
+CT,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.085,,04/01/2017,03/31/2018
+DC,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.849,,04/01/2017,03/31/2018
+DE,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.710,,04/01/2017,03/31/2018
+GU,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.661,,04/01/2017,03/31/2018
+IL,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.755,,04/01/2017,03/31/2018
+IN,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.791,,04/01/2017,03/31/2018
+KS,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.874,,04/01/2017,03/31/2018
+LA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.833,,04/01/2017,03/31/2018
+ME,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.256,,04/01/2017,03/31/2018
+NC,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.889,,04/01/2017,03/31/2018
+NM,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.062,,04/01/2017,03/31/2018
+VA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.006,,04/01/2017,03/31/2018
+VI,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.981,,04/01/2017,03/31/2018
+CT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.225,,04/01/2017,03/31/2018
+DC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.028,,04/01/2017,03/31/2018
+DE,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.968,,04/01/2017,03/31/2018
+GU,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.790,,04/01/2017,03/31/2018
+IL,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.819,,04/01/2017,03/31/2018
+IN,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.877,,04/01/2017,03/31/2018
+KS,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.019,,04/01/2017,03/31/2018
+LA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.922,,04/01/2017,03/31/2018
+ME,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.564,,04/01/2017,03/31/2018
+NC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.960,,04/01/2017,03/31/2018
+NM,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.273,,04/01/2017,03/31/2018
+VA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.101,,04/01/2017,03/31/2018
+VI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.765,,04/01/2017,03/31/2018
+CT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.957,,04/01/2017,03/31/2018
+DC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.695,,04/01/2017,03/31/2018
+DE,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.507,,04/01/2017,03/31/2018
+GU,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.549,,04/01/2017,03/31/2018
+IL,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.696,,04/01/2017,03/31/2018
+IN,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.712,,04/01/2017,03/31/2018
+KS,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.745,,04/01/2017,03/31/2018
+LA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.751,,04/01/2017,03/31/2018
+ME,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.997,,04/01/2017,03/31/2018
+NC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.822,,04/01/2017,03/31/2018
+NM,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.878,,04/01/2017,03/31/2018
+VA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.918,,04/01/2017,03/31/2018
+VI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,SSI - Colon Surgery,HAI_3_SIR,1.104,,04/01/2017,03/31/2018
+CT,SSI - Colon Surgery,HAI_3_SIR,0.861,,04/01/2017,03/31/2018
+DC,SSI - Colon Surgery,HAI_3_SIR,0.903,,04/01/2017,03/31/2018
+DE,SSI - Colon Surgery,HAI_3_SIR,0.683,,04/01/2017,03/31/2018
+GU,SSI - Colon Surgery,HAI_3_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+KS,SSI - Colon Surgery,HAI_3_SIR,0.994,,04/01/2017,03/31/2018
+LA,SSI - Colon Surgery,HAI_3_SIR,0.993,,04/01/2017,03/31/2018
+ME,SSI - Colon Surgery,HAI_3_SIR,1.127,,04/01/2017,03/31/2018
+NC,SSI - Colon Surgery,HAI_3_SIR,0.806,,04/01/2017,03/31/2018
+NM,SSI - Colon Surgery,HAI_3_SIR,1.211,,04/01/2017,03/31/2018
+VA,SSI - Colon Surgery,HAI_3_SIR,1.029,,04/01/2017,03/31/2018
+VI,SSI - Colon Surgery,HAI_3_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.285,,04/01/2017,03/31/2018
+CT,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.059,,04/01/2017,03/31/2018
+DC,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.295,,04/01/2017,03/31/2018
+DE,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.026,,04/01/2017,03/31/2018
+GU,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.188,,04/01/2017,03/31/2018
+IL,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.052,,04/01/2017,03/31/2018
+IN,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.078,,04/01/2017,03/31/2018
+KS,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.228,,04/01/2017,03/31/2018
+LA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.172,,04/01/2017,03/31/2018
+ME,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.482,,04/01/2017,03/31/2018
+NC,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.912,,04/01/2017,03/31/2018
+NM,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.611,,04/01/2017,03/31/2018
+VA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.172,,04/01/2017,03/31/2018
+VI,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.943,,04/01/2017,03/31/2018
+CT,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.692,,04/01/2017,03/31/2018
+DC,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.607,,04/01/2017,03/31/2018
+DE,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.434,,04/01/2017,03/31/2018
+GU,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.757,,04/01/2017,03/31/2018
+IL,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.840,,04/01/2017,03/31/2018
+IN,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.809,,04/01/2017,03/31/2018
+KS,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.796,,04/01/2017,03/31/2018
+LA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.836,,04/01/2017,03/31/2018
+ME,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.840,,04/01/2017,03/31/2018
+NC,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.709,,04/01/2017,03/31/2018
+NM,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.891,,04/01/2017,03/31/2018
+VA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.899,,04/01/2017,03/31/2018
+VI,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.672,,04/01/2017,03/31/2018
+CT,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.996,,04/01/2017,03/31/2018
+DC,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.024,,04/01/2017,03/31/2018
+DE,SSI - Abdominal Hysterectomy,HAI_4_SIR,2.125,,04/01/2017,03/31/2018
+GU,SSI - Abdominal Hysterectomy,HAI_4_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.095,,04/01/2017,03/31/2018
+IL,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.956,,04/01/2017,03/31/2018
+IN,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.965,,04/01/2017,03/31/2018
+KS,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.710,,04/01/2017,03/31/2018
+LA,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.892,,04/01/2017,03/31/2018
+ME,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.502,,04/01/2017,03/31/2018
+NC,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.512,,04/01/2017,03/31/2018
+NM,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.453,,04/01/2017,03/31/2018
+VA,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.856,,04/01/2017,03/31/2018
+VI,SSI - Abdominal Hysterectomy,HAI_4_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.947,,04/01/2017,03/31/2018
+CT,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.439,,04/01/2017,03/31/2018
+DC,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.130,,04/01/2017,03/31/2018
+DE,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,3.788,,04/01/2017,03/31/2018
+GU,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.536,,04/01/2017,03/31/2018
+IL,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.176,,04/01/2017,03/31/2018
+IN,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.249,,04/01/2017,03/31/2018
+KS,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.101,,04/01/2017,03/31/2018
+LA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.212,,04/01/2017,03/31/2018
+ME,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.210,,04/01/2017,03/31/2018
+NC,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,0.681,,04/01/2017,03/31/2018
+NM,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.205,,04/01/2017,03/31/2018
+VA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.097,,04/01/2017,03/31/2018
+VI,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.461,,04/01/2017,03/31/2018
+CT,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.665,,04/01/2017,03/31/2018
+DC,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.415,,04/01/2017,03/31/2018
+DE,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,1.079,,04/01/2017,03/31/2018
+GU,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.757,,04/01/2017,03/31/2018
+IL,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.768,,04/01/2017,03/31/2018
+IN,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.732,,04/01/2017,03/31/2018
+KS,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.434,,04/01/2017,03/31/2018
+LA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.640,,04/01/2017,03/31/2018
+ME,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.159,,04/01/2017,03/31/2018
+NC,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.377,,04/01/2017,03/31/2018
+NM,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.913,,04/01/2017,03/31/2018
+VA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.658,,04/01/2017,03/31/2018
+VI,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,MRSA Bacteremia,HAI_5_SIR,0.719,,04/01/2017,03/31/2018
+CT,MRSA Bacteremia,HAI_5_SIR,0.792,,04/01/2017,03/31/2018
+DC,MRSA Bacteremia,HAI_5_SIR,0.912,,04/01/2017,03/31/2018
+DE,MRSA Bacteremia,HAI_5_SIR,0.964,,04/01/2017,03/31/2018
+GU,MRSA Bacteremia,HAI_5_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,MRSA Bacteremia,HAI_5_SIR,0.610,,04/01/2017,03/31/2018
+IL,MRSA Bacteremia,HAI_5_SIR,0.571,,04/01/2017,03/31/2018
+IN,MRSA Bacteremia,HAI_5_SIR,0.737,,04/01/2017,03/31/2018
+KS,MRSA Bacteremia,HAI_5_SIR,0.751,,04/01/2017,03/31/2018
+LA,MRSA Bacteremia,HAI_5_SIR,1.082,,04/01/2017,03/31/2018
+ME,MRSA Bacteremia,HAI_5_SIR,0.776,,04/01/2017,03/31/2018
+NC,MRSA Bacteremia,HAI_5_SIR,0.819,,04/01/2017,03/31/2018
+NM,MRSA Bacteremia,HAI_5_SIR,0.483,,04/01/2017,03/31/2018
+VA,MRSA Bacteremia,HAI_5_SIR,0.848,,04/01/2017,03/31/2018
+VI,MRSA Bacteremia,HAI_5_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.905,,04/01/2017,03/31/2018
+CT,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.990,,04/01/2017,03/31/2018
+DC,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.183,,04/01/2017,03/31/2018
+DE,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.344,,04/01/2017,03/31/2018
+GU,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.800,,04/01/2017,03/31/2018
+IL,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.659,,04/01/2017,03/31/2018
+IN,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.865,,04/01/2017,03/31/2018
+KS,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.982,,04/01/2017,03/31/2018
+LA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.247,,04/01/2017,03/31/2018
+ME,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.121,,04/01/2017,03/31/2018
+NC,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.918,,04/01/2017,03/31/2018
+NM,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.748,,04/01/2017,03/31/2018
+VA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.976,,04/01/2017,03/31/2018
+VI,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.564,,04/01/2017,03/31/2018
+CT,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.625,,04/01/2017,03/31/2018
+DC,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.690,,04/01/2017,03/31/2018
+DE,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.670,,04/01/2017,03/31/2018
+GU,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.456,,04/01/2017,03/31/2018
+IL,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.493,,04/01/2017,03/31/2018
+IN,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.625,,04/01/2017,03/31/2018
+KS,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.564,,04/01/2017,03/31/2018
+LA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.935,,04/01/2017,03/31/2018
+ME,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.518,,04/01/2017,03/31/2018
+NC,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.729,,04/01/2017,03/31/2018
+NM,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.295,,04/01/2017,03/31/2018
+VA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.733,,04/01/2017,03/31/2018
+VI,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Clostridium Difficile (C.Diff),HAI_6_SIR,0.923,,04/01/2017,03/31/2018
+CT,Clostridium Difficile (C.Diff),HAI_6_SIR,0.876,,04/01/2017,03/31/2018
+DC,Clostridium Difficile (C.Diff),HAI_6_SIR,0.909,,04/01/2017,03/31/2018
+DE,Clostridium Difficile (C.Diff),HAI_6_SIR,0.763,,04/01/2017,03/31/2018
+GU,Clostridium Difficile (C.Diff),HAI_6_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.849,,04/01/2017,03/31/2018
+IL,Clostridium Difficile (C.Diff),HAI_6_SIR,0.936,,04/01/2017,03/31/2018
+IN,Clostridium Difficile (C.Diff),HAI_6_SIR,0.799,,04/01/2017,03/31/2018
+KS,Clostridium Difficile (C.Diff),HAI_6_SIR,0.830,,04/01/2017,03/31/2018
+LA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.734,,04/01/2017,03/31/2018
+ME,Clostridium Difficile (C.Diff),HAI_6_SIR,0.697,,04/01/2017,03/31/2018
+NC,Clostridium Difficile (C.Diff),HAI_6_SIR,0.782,,04/01/2017,03/31/2018
+NM,Clostridium Difficile (C.Diff),HAI_6_SIR,0.990,,04/01/2017,03/31/2018
+VA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.689,,04/01/2017,03/31/2018
+VI,Clostridium Difficile (C.Diff),HAI_6_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.978,,04/01/2017,03/31/2018
+CT,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.933,,04/01/2017,03/31/2018
+DC,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.002,,04/01/2017,03/31/2018
+DE,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.866,,04/01/2017,03/31/2018
+GU,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.910,,04/01/2017,03/31/2018
+IL,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.965,,04/01/2017,03/31/2018
+IN,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.837,,04/01/2017,03/31/2018
+KS,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.895,,04/01/2017,03/31/2018
+LA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.781,,04/01/2017,03/31/2018
+ME,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.788,,04/01/2017,03/31/2018
+NC,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.811,,04/01/2017,03/31/2018
+NM,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.084,,04/01/2017,03/31/2018
+VA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.723,,04/01/2017,03/31/2018
+VI,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+CO,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.870,,04/01/2017,03/31/2018
+CT,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.822,,04/01/2017,03/31/2018
+DC,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.824,,04/01/2017,03/31/2018
+DE,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.670,,04/01/2017,03/31/2018
+GU,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+IA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.792,,04/01/2017,03/31/2018
+IL,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.907,,04/01/2017,03/31/2018
+IN,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.763,,04/01/2017,03/31/2018
+KS,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.768,,04/01/2017,03/31/2018
+LA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.690,,04/01/2017,03/31/2018
+ME,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.615,,04/01/2017,03/31/2018
+NC,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.752,,04/01/2017,03/31/2018
+NM,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.902,,04/01/2017,03/31/2018
+VA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.656,,04/01/2017,03/31/2018
+VI,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+ID,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.448,,04/01/2017,03/31/2018
+MI,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.761,,04/01/2017,03/31/2018
+ND,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.823,,04/01/2017,03/31/2018
+NV,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.930,,04/01/2017,03/31/2018
+RI,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,1.038,,04/01/2017,03/31/2018
+UT,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.490,,04/01/2017,03/31/2018
+ID,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.647,,04/01/2017,03/31/2018
+MI,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.836,,04/01/2017,03/31/2018
+ND,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.076,,04/01/2017,03/31/2018
+NV,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.063,,04/01/2017,03/31/2018
+RI,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.324,,04/01/2017,03/31/2018
+UT,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.624,,04/01/2017,03/31/2018
+ID,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.299,,04/01/2017,03/31/2018
+MI,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.692,,04/01/2017,03/31/2018
+ND,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.617,,04/01/2017,03/31/2018
+NV,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.809,,04/01/2017,03/31/2018
+RI,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.801,,04/01/2017,03/31/2018
+UT,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.379,,04/01/2017,03/31/2018
+ID,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.098,,04/01/2017,03/31/2018
+MI,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.743,,04/01/2017,03/31/2018
+ND,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.908,,04/01/2017,03/31/2018
+NV,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.748,,04/01/2017,03/31/2018
+RI,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.218,,04/01/2017,03/31/2018
+UT,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.923,,04/01/2017,03/31/2018
+ID,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.360,,04/01/2017,03/31/2018
+MI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.806,,04/01/2017,03/31/2018
+ND,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.166,,04/01/2017,03/31/2018
+NV,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.866,,04/01/2017,03/31/2018
+RI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.520,,04/01/2017,03/31/2018
+UT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.106,,04/01/2017,03/31/2018
+ID,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.877,,04/01/2017,03/31/2018
+MI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.683,,04/01/2017,03/31/2018
+ND,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.696,,04/01/2017,03/31/2018
+NV,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.643,,04/01/2017,03/31/2018
+RI,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.963,,04/01/2017,03/31/2018
+UT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.763,,04/01/2017,03/31/2018
+ID,SSI - Colon Surgery,HAI_3_SIR,1.134,,04/01/2017,03/31/2018
+MI,SSI - Colon Surgery,HAI_3_SIR,1.039,,04/01/2017,03/31/2018
+ND,SSI - Colon Surgery,HAI_3_SIR,1.490,,04/01/2017,03/31/2018
+NV,SSI - Colon Surgery,HAI_3_SIR,0.973,,04/01/2017,03/31/2018
+RI,SSI - Colon Surgery,HAI_3_SIR,1.453,,04/01/2017,03/31/2018
+UT,SSI - Colon Surgery,HAI_3_SIR,1.155,,04/01/2017,03/31/2018
+ID,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.513,,04/01/2017,03/31/2018
+MI,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.159,,04/01/2017,03/31/2018
+ND,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,2.009,,04/01/2017,03/31/2018
+NV,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.229,,04/01/2017,03/31/2018
+RI,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.952,,04/01/2017,03/31/2018
+UT,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.446,,04/01/2017,03/31/2018
+ID,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.831,,04/01/2017,03/31/2018
+MI,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.928,,04/01/2017,03/31/2018
+ND,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,1.079,,04/01/2017,03/31/2018
+NV,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.760,,04/01/2017,03/31/2018
+RI,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,1.056,,04/01/2017,03/31/2018
+UT,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.911,,04/01/2017,03/31/2018
+ID,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.731,,04/01/2017,03/31/2018
+MI,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.047,,04/01/2017,03/31/2018
+ND,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.745,,04/01/2017,03/31/2018
+NV,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.803,,04/01/2017,03/31/2018
+RI,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.642,,04/01/2017,03/31/2018
+UT,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.000,,04/01/2017,03/31/2018
+ID,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.521,,04/01/2017,03/31/2018
+MI,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.289,,04/01/2017,03/31/2018
+ND,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,3.452,,04/01/2017,03/31/2018
+NV,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.339,,04/01/2017,03/31/2018
+RI,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.648,,04/01/2017,03/31/2018
+UT,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.455,,04/01/2017,03/31/2018
+ID,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.296,,04/01/2017,03/31/2018
+MI,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.840,,04/01/2017,03/31/2018
+ND,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.763,,04/01/2017,03/31/2018
+NV,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.447,,04/01/2017,03/31/2018
+RI,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.954,,04/01/2017,03/31/2018
+UT,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.662,,04/01/2017,03/31/2018
+ID,MRSA Bacteremia,HAI_5_SIR,0.331,,04/01/2017,03/31/2018
+MI,MRSA Bacteremia,HAI_5_SIR,0.850,,04/01/2017,03/31/2018
+ND,MRSA Bacteremia,HAI_5_SIR,0.959,,04/01/2017,03/31/2018
+NV,MRSA Bacteremia,HAI_5_SIR,0.845,,04/01/2017,03/31/2018
+RI,MRSA Bacteremia,HAI_5_SIR,0.647,,04/01/2017,03/31/2018
+UT,MRSA Bacteremia,HAI_5_SIR,0.680,,04/01/2017,03/31/2018
+ID,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.629,,04/01/2017,03/31/2018
+MI,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.954,,04/01/2017,03/31/2018
+ND,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.455,,04/01/2017,03/31/2018
+NV,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.052,,04/01/2017,03/31/2018
+RI,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.991,,04/01/2017,03/31/2018
+UT,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.939,,04/01/2017,03/31/2018
+ID,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.154,,04/01/2017,03/31/2018
+MI,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.754,,04/01/2017,03/31/2018
+ND,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.602,,04/01/2017,03/31/2018
+NV,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.670,,04/01/2017,03/31/2018
+RI,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.401,,04/01/2017,03/31/2018
+UT,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.478,,04/01/2017,03/31/2018
+ID,Clostridium Difficile (C.Diff),HAI_6_SIR,0.767,,04/01/2017,03/31/2018
+MI,Clostridium Difficile (C.Diff),HAI_6_SIR,0.788,,04/01/2017,03/31/2018
+ND,Clostridium Difficile (C.Diff),HAI_6_SIR,1.017,,04/01/2017,03/31/2018
+NV,Clostridium Difficile (C.Diff),HAI_6_SIR,0.774,,04/01/2017,03/31/2018
+RI,Clostridium Difficile (C.Diff),HAI_6_SIR,1.043,,04/01/2017,03/31/2018
+UT,Clostridium Difficile (C.Diff),HAI_6_SIR,1.085,,04/01/2017,03/31/2018
+ID,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.869,,04/01/2017,03/31/2018
+MI,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.818,,04/01/2017,03/31/2018
+ND,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.153,,04/01/2017,03/31/2018
+NV,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.830,,04/01/2017,03/31/2018
+RI,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.154,,04/01/2017,03/31/2018
+UT,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.181,,04/01/2017,03/31/2018
+ID,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.673,,04/01/2017,03/31/2018
+MI,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.759,,04/01/2017,03/31/2018
+ND,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.893,,04/01/2017,03/31/2018
+NV,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.720,,04/01/2017,03/31/2018
+RI,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.941,,04/01/2017,03/31/2018
+UT,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.996,,04/01/2017,03/31/2018
+AZ,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.630,,04/01/2017,03/31/2018
+CA,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.824,,04/01/2017,03/31/2018
+MP,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.906,,04/01/2017,03/31/2018
+NH,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.670,,04/01/2017,03/31/2018
+NY,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.849,,04/01/2017,03/31/2018
+SC,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.849,,04/01/2017,03/31/2018
+TN,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.797,,04/01/2017,03/31/2018
+VT,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.847,,04/01/2017,03/31/2018
+WV,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.747,,04/01/2017,03/31/2018
+WY,Central Line Associated Bloodstream Infection (ICU + select Wards),HAI_1_SIR,0.610,,04/01/2017,03/31/2018
+AZ,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.718,,04/01/2017,03/31/2018
+CA,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.867,,04/01/2017,03/31/2018
+MP,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.053,,04/01/2017,03/31/2018
+NH,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.914,,04/01/2017,03/31/2018
+NY,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.900,,04/01/2017,03/31/2018
+SC,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.963,,04/01/2017,03/31/2018
+TN,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.875,,04/01/2017,03/31/2018
+VT,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.329,,04/01/2017,03/31/2018
+WV,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,0.882,,04/01/2017,03/31/2018
+WY,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,HAI_1_CI_UPPER,1.470,,04/01/2017,03/31/2018
+AZ,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.550,,04/01/2017,03/31/2018
+CA,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.783,,04/01/2017,03/31/2018
+MP,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.774,,04/01/2017,03/31/2018
+NH,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.479,,04/01/2017,03/31/2018
+NY,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.799,,04/01/2017,03/31/2018
+SC,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.745,,04/01/2017,03/31/2018
+TN,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.724,,04/01/2017,03/31/2018
+VT,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.510,,04/01/2017,03/31/2018
+WV,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.629,,04/01/2017,03/31/2018
+WY,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,HAI_1_CI_LOWER,0.194,,04/01/2017,03/31/2018
+AZ,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.575,,04/01/2017,03/31/2018
+CA,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.024,,04/01/2017,03/31/2018
+MP,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.668,,04/01/2017,03/31/2018
+NH,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.980,,04/01/2017,03/31/2018
+NY,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.990,,04/01/2017,03/31/2018
+SC,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.868,,04/01/2017,03/31/2018
+TN,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.716,,04/01/2017,03/31/2018
+VT,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,1.085,,04/01/2017,03/31/2018
+WV,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.623,,04/01/2017,03/31/2018
+WY,Catheter Associated Urinary Tract Infections (ICU + select Wards),HAI_2_SIR,0.636,,04/01/2017,03/31/2018
+AZ,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.654,,04/01/2017,03/31/2018
+CA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.068,,04/01/2017,03/31/2018
+MP,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.774,,04/01/2017,03/31/2018
+NH,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.221,,04/01/2017,03/31/2018
+NY,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.041,,04/01/2017,03/31/2018
+SC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.971,,04/01/2017,03/31/2018
+TN,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.786,,04/01/2017,03/31/2018
+VT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.480,,04/01/2017,03/31/2018
+WV,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,0.731,,04/01/2017,03/31/2018
+WY,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,HAI_2_CI_UPPER,1.166,,04/01/2017,03/31/2018
+AZ,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.504,,04/01/2017,03/31/2018
+CA,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.980,,04/01/2017,03/31/2018
+MP,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.574,,04/01/2017,03/31/2018
+NH,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.776,,04/01/2017,03/31/2018
+NY,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.941,,04/01/2017,03/31/2018
+SC,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.774,,04/01/2017,03/31/2018
+TN,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.652,,04/01/2017,03/31/2018
+VT,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.775,,04/01/2017,03/31/2018
+WV,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.526,,04/01/2017,03/31/2018
+WY,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,HAI_2_CI_LOWER,0.310,,04/01/2017,03/31/2018
+AZ,SSI - Colon Surgery,HAI_3_SIR,0.975,,04/01/2017,03/31/2018
+CA,SSI - Colon Surgery,HAI_3_SIR,0.936,,04/01/2017,03/31/2018
+MP,SSI - Colon Surgery,HAI_3_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,SSI - Colon Surgery,HAI_3_SIR,1.074,,04/01/2017,03/31/2018
+NH,SSI - Colon Surgery,HAI_3_SIR,1.058,,04/01/2017,03/31/2018
+NY,SSI - Colon Surgery,HAI_3_SIR,0.981,,04/01/2017,03/31/2018
+SC,SSI - Colon Surgery,HAI_3_SIR,0.863,,04/01/2017,03/31/2018
+TN,SSI - Colon Surgery,HAI_3_SIR,0.747,,04/01/2017,03/31/2018
+VT,SSI - Colon Surgery,HAI_3_SIR,1.332,,04/01/2017,03/31/2018
+WV,SSI - Colon Surgery,HAI_3_SIR,1.438,,04/01/2017,03/31/2018
+WY,SSI - Colon Surgery,HAI_3_SIR,0.141,,04/01/2017,03/31/2018
+AZ,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.132,,04/01/2017,03/31/2018
+CA,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.007,,04/01/2017,03/31/2018
+MP,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.298,,04/01/2017,03/31/2018
+NH,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.432,,04/01/2017,03/31/2018
+NY,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.075,,04/01/2017,03/31/2018
+SC,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.032,,04/01/2017,03/31/2018
+TN,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.864,,04/01/2017,03/31/2018
+VT,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,2.090,,04/01/2017,03/31/2018
+WV,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,1.779,,04/01/2017,03/31/2018
+WY,SSI - Colon Surgery: Upper Confidence Limit,HAI_3_CI_UPPER,0.698,,04/01/2017,03/31/2018
+AZ,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.835,,04/01/2017,03/31/2018
+CA,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.869,,04/01/2017,03/31/2018
+MP,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.880,,04/01/2017,03/31/2018
+NH,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.763,,04/01/2017,03/31/2018
+NY,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.894,,04/01/2017,03/31/2018
+SC,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.715,,04/01/2017,03/31/2018
+TN,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.642,,04/01/2017,03/31/2018
+VT,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.802,,04/01/2017,03/31/2018
+WV,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,1.150,,04/01/2017,03/31/2018
+WY,SSI - Colon Surgery: Lower Confidence Limit,HAI_3_CI_LOWER,0.007,,04/01/2017,03/31/2018
+AZ,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.806,,04/01/2017,03/31/2018
+CA,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.953,,04/01/2017,03/31/2018
+MP,SSI - Abdominal Hysterectomy,HAI_4_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.242,,04/01/2017,03/31/2018
+NH,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.322,,04/01/2017,03/31/2018
+NY,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.035,,04/01/2017,03/31/2018
+SC,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.840,,04/01/2017,03/31/2018
+TN,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.865,,04/01/2017,03/31/2018
+VT,SSI - Abdominal Hysterectomy,HAI_4_SIR,1.333,,04/01/2017,03/31/2018
+WV,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.784,,04/01/2017,03/31/2018
+WY,SSI - Abdominal Hysterectomy,HAI_4_SIR,0.000,,04/01/2017,03/31/2018
+AZ,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.073,,04/01/2017,03/31/2018
+CA,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.106,,04/01/2017,03/31/2018
+MP,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.716,,04/01/2017,03/31/2018
+NH,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.297,,04/01/2017,03/31/2018
+NY,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.230,,04/01/2017,03/31/2018
+SC,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.133,,04/01/2017,03/31/2018
+TN,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.094,,04/01/2017,03/31/2018
+VT,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,2.955,,04/01/2017,03/31/2018
+WV,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.362,,04/01/2017,03/31/2018
+WY,SSI - Abdominal Hysterectomy: Upper Confidence Limit,HAI_4_CI_UPPER,1.073,,04/01/2017,03/31/2018
+AZ,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.593,,04/01/2017,03/31/2018
+CA,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.817,,04/01/2017,03/31/2018
+MP,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.874,,04/01/2017,03/31/2018
+NH,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.695,,04/01/2017,03/31/2018
+NY,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.865,,04/01/2017,03/31/2018
+SC,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.608,,04/01/2017,03/31/2018
+TN,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.675,,04/01/2017,03/31/2018
+VT,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.489,,04/01/2017,03/31/2018
+WV,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,0.412,,04/01/2017,03/31/2018
+WY,SSI - Abdominal Hysterectomy: Lower Confidence Limit,HAI_4_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+AZ,MRSA Bacteremia,HAI_5_SIR,0.802,,04/01/2017,03/31/2018
+CA,MRSA Bacteremia,HAI_5_SIR,0.855,,04/01/2017,03/31/2018
+MP,MRSA Bacteremia,HAI_5_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,MRSA Bacteremia,HAI_5_SIR,0.905,,04/01/2017,03/31/2018
+NH,MRSA Bacteremia,HAI_5_SIR,0.625,,04/01/2017,03/31/2018
+NY,MRSA Bacteremia,HAI_5_SIR,1.001,,04/01/2017,03/31/2018
+SC,MRSA Bacteremia,HAI_5_SIR,0.954,,04/01/2017,03/31/2018
+TN,MRSA Bacteremia,HAI_5_SIR,1.147,,04/01/2017,03/31/2018
+VT,MRSA Bacteremia,HAI_5_SIR,0.570,,04/01/2017,03/31/2018
+WV,MRSA Bacteremia,HAI_5_SIR,1.372,,04/01/2017,03/31/2018
+WY,MRSA Bacteremia,HAI_5_SIR,0.435,,04/01/2017,03/31/2018
+AZ,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.938,,04/01/2017,03/31/2018
+CA,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.922,,04/01/2017,03/31/2018
+MP,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.095,,04/01/2017,03/31/2018
+NH,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,0.957,,04/01/2017,03/31/2018
+NY,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.079,,04/01/2017,03/31/2018
+SC,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.110,,04/01/2017,03/31/2018
+TN,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.282,,04/01/2017,03/31/2018
+VT,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.082,,04/01/2017,03/31/2018
+WV,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.630,,04/01/2017,03/31/2018
+WY,MRSA Bacteremia: Upper Confidence Limit,HAI_5_CI_UPPER,1.436,,04/01/2017,03/31/2018
+AZ,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.682,,04/01/2017,03/31/2018
+CA,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.792,,04/01/2017,03/31/2018
+MP,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.741,,04/01/2017,03/31/2018
+NH,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.387,,04/01/2017,03/31/2018
+NY,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.928,,04/01/2017,03/31/2018
+SC,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.816,,04/01/2017,03/31/2018
+TN,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,1.023,,04/01/2017,03/31/2018
+VT,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.265,,04/01/2017,03/31/2018
+WV,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,1.146,,04/01/2017,03/31/2018
+WY,MRSA Bacteremia: Lower Confidence Limit,HAI_5_CI_LOWER,0.073,,04/01/2017,03/31/2018
+AZ,Clostridium Difficile (C.Diff),HAI_6_SIR,0.726,,04/01/2017,03/31/2018
+CA,Clostridium Difficile (C.Diff),HAI_6_SIR,0.787,,04/01/2017,03/31/2018
+MP,Clostridium Difficile (C.Diff),HAI_6_SIR,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Clostridium Difficile (C.Diff),HAI_6_SIR,0.747,,04/01/2017,03/31/2018
+NH,Clostridium Difficile (C.Diff),HAI_6_SIR,0.942,,04/01/2017,03/31/2018
+NY,Clostridium Difficile (C.Diff),HAI_6_SIR,0.761,,04/01/2017,03/31/2018
+SC,Clostridium Difficile (C.Diff),HAI_6_SIR,0.830,,04/01/2017,03/31/2018
+TN,Clostridium Difficile (C.Diff),HAI_6_SIR,0.761,,04/01/2017,03/31/2018
+VT,Clostridium Difficile (C.Diff),HAI_6_SIR,0.857,,04/01/2017,03/31/2018
+WV,Clostridium Difficile (C.Diff),HAI_6_SIR,0.851,,04/01/2017,03/31/2018
+WY,Clostridium Difficile (C.Diff),HAI_6_SIR,0.742,,04/01/2017,03/31/2018
+AZ,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.766,,04/01/2017,03/31/2018
+CA,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.806,,04/01/2017,03/31/2018
+MP,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.799,,04/01/2017,03/31/2018
+NH,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.047,,04/01/2017,03/31/2018
+NY,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.782,,04/01/2017,03/31/2018
+SC,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.876,,04/01/2017,03/31/2018
+TN,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.796,,04/01/2017,03/31/2018
+VT,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,1.028,,04/01/2017,03/31/2018
+WV,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.914,,04/01/2017,03/31/2018
+WY,Clostridium Difficile (C.Diff): Upper Confidence Limit,HAI_6_CI_UPPER,0.952,,04/01/2017,03/31/2018
+AZ,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.688,,04/01/2017,03/31/2018
+CA,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.769,,04/01/2017,03/31/2018
+MP,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,Not Available,5 - Results are not available for this reporting period.,04/01/2017,03/31/2018
+MS,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.697,,04/01/2017,03/31/2018
+NH,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.844,,04/01/2017,03/31/2018
+NY,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.741,,04/01/2017,03/31/2018
+SC,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.786,,04/01/2017,03/31/2018
+TN,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.727,,04/01/2017,03/31/2018
+VT,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.709,,04/01/2017,03/31/2018
+WV,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.791,,04/01/2017,03/31/2018
+WY,Clostridium Difficile (C.Diff): Lower Confidence Limit,HAI_6_CI_LOWER,0.568,,04/01/2017,03/31/2018

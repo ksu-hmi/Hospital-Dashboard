@@ -1,0 +1,20 @@
+﻿Measure Name,Measure ID,National Rate,Number of Hospitals Worse,Number of Hospitals Same,Number of Hospitals Better,Number of Hospitals Too Few,Footnote,Measure Start Date,Measure End Date
+A wound that splits open after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,0.86,16,"2,771",0,293,,10/01/2015,06/30/2017
+Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,1.29,20,"2,965",1,182,,10/01/2015,06/30/2017
+Death rate for heart attack patients,MORT_30_AMI,13.2,24,"2,376",47,1912,,07/01/2014,06/30/2017
+Blood stream infection after surgery,PSI_13_POST_SEPSIS,5.23,65,"2,679",27,214,,10/01/2015,06/30/2017
+Broken hip from a fall after surgery,PSI_8_POST_HIP,0.11,0,"3,280",0,46,,10/01/2015,06/30/2017
+Collapsed lung due to medical treatment,PSI_6_IAT_PTX,0.29,16,"3,265",1,45,,10/01/2015,06/30/2017
+Death rate for CABG surgery patients,MORT_30_CABG,3.1,23,984,17,159,,07/01/2014,06/30/2017
+Death rate for COPD patients,MORT_30_COPD,8.3,95,"3,482",65,934,,07/01/2014,06/30/2017
+Death rate for stroke patients,MORT_30_STK,14.3,70,"2,486",56,1765,,07/01/2014,06/30/2017
+Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,161.73,32,"1,659",26,1037,,10/01/2015,06/30/2017
+Death rate for heart failure patients,MORT_30_HF,11.7,135,"3,379",228,957,,07/01/2014,06/30/2017
+Perioperative Hemorrhage or Hematoma Rate,PSI_9_POST_HEM,2.6,37,"2,976",9,117,,10/01/2015,06/30/2017
+Death rate for pneumonia patients,MORT_30_PN,15.7,242,"3,832",239,445,,07/01/2014,06/30/2017
+Postoperative Acute Kidney Injury Requiring Dialysis Rate,PSI_10_POST_KIDNEY,1.32,37,"2,748",5,211,,10/01/2015,06/30/2017
+Postoperative Respiratory Failure Rate,PSI_11_POST_RESP,7.88,165,"2,531",68,231,,10/01/2015,06/30/2017
+Pressure sores,PSI_3_ULCER,0.41,194,"3,021",42,59,,10/01/2015,06/30/2017
+Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,2.6,44,"2,669",68,678,,04/01/2014,03/31/2017
+Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,3.86,100,"2,892",36,111,,10/01/2015,06/30/2017
+Serious complications,PSI_90_SAFETY,1,187,"3,049",91,Not Available,,10/01/2015,06/30/2017
