@@ -4,7 +4,7 @@
 <li>DONE Set up repostiory for selected project on github</li>
 <li>DONE Review tutorial for github desktop</li>
 <li>DONE nstall github desktop</li>
-<li>DONE Research availalble datasets to create a dashboard on hospital safety and quality. Determine if datasets will need to be cleaned, what is required to download the data?</li>
+<li>DONE Research availalble datasets to create a dashboard on hospital safety and quality. Determine if datasets will need to be cleaned; what is required to download the data?</li>
   <li>DONE Define initial project paramaters and document in the README file
 <li>DONE Search github and other datasources for code to query the Medicare dataset to determine if the data in those queries retrieves the necessary data for the defined project; Can this code be modified to meet stated goals?
 <li>DONE Research python libraries needed to create a dashboard using a csv file</li>
