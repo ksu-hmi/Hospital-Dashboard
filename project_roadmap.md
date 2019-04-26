@@ -13,8 +13,8 @@
 <li>DONE Download Medicare datasets from cms.gov</li>https://github.com/jvns/pandas-cookbook
   <li>DONE Fork the respository for pandas code for various scenarios:https://github.com/jvns/pandas-cookbook</li>
   <li>DONE Fork the repository https://github.com/bkovales1/query-for-hospital/blob/master/Coding_exercise.py to test code for query/user interface</li?
-  <li>Review datasets to determine which data is needed from the downloaded data and if it will need to be modified prior to or during import
-  <li>Write and test code to import datasets that have been downloaded</li>
+  <li>DONE Review datasets to determine which data is needed from the downloaded data and if it will need to be modified prior to or during import
+  <li>DONE Write and test code to import datasets that have been downloaded</li>
   <li>Review and select one of the following plotting tools in python and determine best tool to achieve goal of project: matploblib or plotly</li>
   <li>Search github for code to display barcharts and/or line graphs for selected dashboard tool</li>
   <li>Search github for code to make dashboards interactive</li>
