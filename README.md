@@ -5,7 +5,7 @@ This purpose of this dashboard is to accumulate data published by CMS and other 
         2. Hospital acquired infections
         3. IPPS Charges per discharge for top 100 DRGs
         4. Other national data statistics
-  
+ The user will be able to select a hospital by zip code then metrics for that hospital will be graphically displayed as compared to the national average.
   
 ## Python libraries to explore:
     pandas - to extract and format the data for the graphics
