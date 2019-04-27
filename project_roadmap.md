@@ -1,7 +1,8 @@
 ## Project Roadmap_Hospital Dashboard Project ##
+- [x] Set up repostiory for selected project on github
 <ol>
 <li>DONE Join ks-hmi organization on Github</li>
-<li>DONE Set up repostiory for selected project on github</li>
+
 <li>DONE Review tutorial for github desktop</li>
 <li>DONE nstall github desktop</li>
 <li>DONE Research availalble datasets to create a dashboard on hospital safety and quality. Determine if datasets will need to be cleaned; what is required to download the data?</li>
