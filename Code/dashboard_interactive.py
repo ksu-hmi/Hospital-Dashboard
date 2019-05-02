@@ -6,6 +6,8 @@ from dash.dependencies import Input, Output
 import plotly_express as px
 import plotly.graph_objs as go
 
+
+
 psi_data_df = pd.read_csv('c:/data/TEST/psi_data.csv', dtype = {'Zip_Code':'str'})
 psi_data_df.index.astype(str, copy=False)
 benchmark_df = pd.read_csv('c:/data/TEST/benchmark.csv')
@@ -44,16 +46,16 @@ app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
     }),  
                  
 dcc.Graph(
-    id='safety measures',
-    figure = {
-        'data': [
-            {'x':[1],'y':[1],'type': 'bar','name': 'hospital'},
-            {'x':[2],'y':[2],'type': 'bar','name': 'all'},
-        ],
-        'layout': {
-            'title': 'Hospital Safety Measure compared to Population Benchmark'
-        }
-    }
+    id='create-df-graph',
+ #   figure = {
+ #       'data': [
+ #           {'x':[1],'y':[1],'type': 'bar','name': 'hospital'},
+  #          {'x':[2],'y':[2],'type': 'bar','name': 'all'},
+  #      ],
+  #      'layout': {
+  #          'title': 'Hospital Safety Measure compared to Population Benchmark'
+  #      }
+  #  }
 ),
   
 dcc.Dropdown(
@@ -67,7 +69,9 @@ html.Hr(),
 dcc.Dropdown(id='hospital-dropdown'),
 html.Hr(),
 
-html.Div(id='display-selected-values')
+html.Div(id='display-selected-values'),
+
+
 ])                    
 
 @app.callback(
@@ -89,9 +93,37 @@ def set_provider_values(available_options):
      [Input('state-dropdown','value'),
       Input('hospital-dropdown','value')]
       )
-def set_display_graph(selected_state,selected_provider):
-    df1 = psi_data_df[psi_data_df['Provider_Name']==selected_provider]
-    results2plot_df = df1.append(benchmark_df,ignore_index=True,sort=True)
+def set_display_children(selected_state,selected_provider):
+     return u'{} is a facility in {}'.format(
+      selected_provider, selected_state,
+    )
+
+@app.callback(
+    Output('create-df-graph','figure'),
+     [Input('hospital-dropdown','value')]
+      )
+def create_df(selected_provider):
+       df1 = psi_data_df[psi_data_df['Provider_Name']==selected_provider]
+       results2plot_df = df1.append(benchmark_df,ignore_index=True,sort=True)
+       return px.bar(results2plot_df, x='Provider_Name',y='Rate', color='Measure_ID',barmode='group')
+
+   # plotdata_df = px.results2plot_df()
+  #  return print(results2plot_df,plotdata_df)
+
+    
+    
+
+   
+    
+
+
+
+
+
+    
+
+
+
 
        
    
