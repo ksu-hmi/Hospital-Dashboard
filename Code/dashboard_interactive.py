@@ -33,7 +33,7 @@ all_options = dict(psi_data_df.groupby('State')['Provider_Name'].apply(list))
                  
 app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
     html.H1(
-        children='Hospital PSI - as compared to Population',
+        children='Hospital PSI - as compared to Population Benchmark',
         style={
             'textAlign':'center',
             'color': colors['text']
@@ -105,12 +105,9 @@ def set_display_children(selected_state,selected_provider):
 def create_df(selected_provider):
        df1 = psi_data_df[psi_data_df['Provider_Name']==selected_provider]
        results2plot_df = df1.append(benchmark_df,ignore_index=True,sort=True)
-       return px.bar(results2plot_df, x='Provider_Name',y='Rate', color='Measure_ID',barmode='group')
+       return px.bar(results2plot_df, x='Measure_ID',y='Rate', color='Provider_Name', barmode = 'group',hover_name='Measure_Name')
 
-   # plotdata_df = px.results2plot_df()
-  #  return print(results2plot_df,plotdata_df)
-
-    
+   
     
 
    
