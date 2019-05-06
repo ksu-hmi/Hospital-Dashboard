@@ -25,6 +25,6 @@
 - [x] Use local host to present if insufficient time to develop a web app. Successfully loaded to port 8050.
 - [x] Creat Marketing slide in powerpoint
 - [x] Continue testing and refining graphics 
-- [ ] Write documentation for final project
-- [ ] Use documentation to create short presentation about the project
+- [x] Write documentation for final project
+- [x] Use documentation to create short presentation about the project
   
