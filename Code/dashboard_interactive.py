@@ -7,17 +7,23 @@ import plotly_express as px
 import plotly.graph_objs as go
 
 
-
+#Read the data using pandas
 psi_data_df = pd.read_csv('c:/data/TEST/psi_data.csv', dtype = {'Zip_Code':'str'})
 psi_data_df.index.astype(str, copy=False)
 benchmark_df = pd.read_csv('c:/data/TEST/benchmark.csv')
-#benchmarkh_df = pd.read_csv('c:/data/TEST/benchmarkh.csv')
 
-#psi_data_df = psi_data_df.append(benchmark_df,ignore_index = True,sort=True)
+#Convert rate to data type float; imported as a string due to "Not Available" values
+psi_data_df['Rate']=pd.to_numeric(psi_data_df['Rate'],errors='coerce')
+psi_data_df['Rate'].fillna(0,inplace = True)
+
+
+#Drop columns not needed
 psi_data_df = psi_data_df.drop(columns=["Address","Footnote","Start_Date","End_Date","Location"])
+#psi_data_df.info()
 
-#psi_df = px.data.psi_data_df()
 
+
+#Sets up html layout using Dash 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -28,6 +34,7 @@ colors = {
     'text': '#7FDBFF'
 }
 
+#Create dictionary of items to populate dropdown
 all_options={}
 all_options = dict(psi_data_df.groupby('State')['Provider_Name'].apply(list))           
                  
@@ -40,23 +47,13 @@ app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
         }
     ),
 
-    html.Div(children='Select a State and Hospital', style ={
+html.Div(children='Select a State and Hospital', style ={
         'textAlign': 'center',
         'color': colors['text']
     }),  
-                 
-dcc.Graph(
-    id='create-df-graph',
- #   figure = {
- #       'data': [
- #           {'x':[1],'y':[1],'type': 'bar','name': 'hospital'},
-  #          {'x':[2],'y':[2],'type': 'bar','name': 'all'},
-  #      ],
-  #      'layout': {
-  #          'title': 'Hospital Safety Measure compared to Population Benchmark'
-  #      }
-  #  }
-),
+
+
+
   
 dcc.Dropdown(
      id = 'state-dropdown',
@@ -71,9 +68,19 @@ html.Hr(),
 
 html.Div(id='display-selected-values'),
 
+dcc.Graph(
+    id='create-df-graph',
+ 
+),
+
+      
+
+
 
 ])                    
 
+
+#Code to capture user choice and utilize as input for graphics and page verbiage
 @app.callback(
      Output('hospital-dropdown','options'),
      [Input('state-dropdown','value')]
@@ -98,6 +105,8 @@ def set_display_children(selected_state,selected_provider):
       selected_provider, selected_state,
     )
 
+#Reshapes df for input to graphic using user input from above
+
 @app.callback(
     Output('create-df-graph','figure'),
      [Input('hospital-dropdown','value')]
@@ -107,41 +116,8 @@ def create_df(selected_provider):
        results2plot_df = df1.append(benchmark_df,ignore_index=True,sort=True)
        return px.bar(results2plot_df, x='Measure_ID',y='Rate', color='Provider_Name', barmode = 'group',hover_name='Measure_Name')
 
-   
-    
-
-   
-    
-
-
-
-
-
-    
-
-
-
-
-       
-   
-    
-
-    
-    #u'{} is a facility in {}'.format(
-     #   selected_provider, selected_state,
-   # )
-
-
-
-#dcc.graph(
- #   id='example-graph',
- #   figure={
- #       'data':[
-  #          {'x': [1,2,3],'y':['PSI-3','PSI-8','PSI-15'],'type': 'bar','name': 'test'},
- #           {'x': [1,2,3],'y':['PSI-3','PSI-8','PSI-15'],'type': 'bar','name': 'OVERALL POPULATION'}
-  #      ]
-  #  }
-#)
+      
+  
 
 if __name__=="__main__":
     app.run_server(debug=True, port=8050) 
